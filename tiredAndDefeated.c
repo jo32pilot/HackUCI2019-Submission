@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+ 
 #define Im          int
 #define so          main
 #define tired       (
